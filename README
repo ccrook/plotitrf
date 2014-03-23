@@ -9,3 +9,5 @@ QtWorld.py Python module for displaying the vector data on a world map or globe
 
 coast.dat Very simple world coastline data
 plotitrf.dat Pre-calculated ITRF data.  (Calculated on points of a stellated dodecahedron (or icosahedron)
+
+Currently running with python 2.7 and PyQt4 version 4.9.1
