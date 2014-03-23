@@ -1,0 +1,11 @@
+Small PyQt program for displaying the difference between different ITRF realisations at different epochs.
+
+itrfdata.py Generates a data set (already included as plotitrf.dat).  This uses the concord program to calculate the ITRF data. 
+Note that this is using the IGS parameters for the ITRF97-ITRF97 transformation.
+
+plotitrf.py Plots the data 
+
+QtWorld.py Python module for displaying the vector data on a world map or globe
+
+coast.dat Very simple world coastline data
+plotitrf.dat Pre-calculated ITRF data.  (Calculated on points of a stellated dodecahedron (or icosahedron)
